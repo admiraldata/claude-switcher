@@ -1,0 +1,9 @@
+.DS_Store
+.cache/
+build/
+*.key
+*.pem
+.env
+.env.*
+credentials.*
+secrets.*
